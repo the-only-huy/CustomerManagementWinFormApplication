@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>404</ProductID>
+    <Quantity>2</Quantity>
+    <UnitCost>459.9900</UnitCost>
+    <OrderDate>2000-07-06T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-07T01:01:00+07:00</ShipDate>
+    <Expr1>99</Expr1>
+    <ModelNumber>JWLTRANS6</ModelNumber>
+    <ModelName>Interpreter Earrings</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>378</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>14.9900</UnitCost>
+    <OrderDate>2000-07-03T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-03T01:01:00+07:00</ShipDate>
+    <Expr1>96</Expr1>
+    <ModelNumber>SQUKY1</ModelNumber>
+    <ModelName>Guard Dog Pacifier</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>355</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>1499.9900</UnitCost>
+    <OrderDate>2000-07-10T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-11T01:01:00+07:00</ShipDate>
+    <Expr1>104</Expr1>
+    <ModelNumber>RU007</ModelNumber>
+    <ModelName>Rain Racer 2000</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>362</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>1.9900</UnitCost>
+    <OrderDate>2000-07-10T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-11T01:01:00+07:00</ShipDate>
+    <Expr1>104</Expr1>
+    <ModelNumber>LK4TLNT</ModelNumber>
+    <ModelName>Persuasive Pencil</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>378</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>14.9900</UnitCost>
+    <OrderDate>2000-07-10T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-11T01:01:00+07:00</ShipDate>
+    <Expr1>104</Expr1>
+    <ModelNumber>SQUKY1</ModelNumber>
+    <ModelName>Guard Dog Pacifier</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>404</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>459.9900</UnitCost>
+    <OrderDate>2000-07-10T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-11T01:01:00+07:00</ShipDate>
+    <Expr1>104</Expr1>
+    <ModelNumber>JWLTRANS6</ModelNumber>
+    <ModelName>Interpreter Earrings</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>406</ProductID>
+    <Quantity>1</Quantity>
+    <UnitCost>399.9900</UnitCost>
+    <OrderDate>2000-07-10T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-11T01:01:00+07:00</ShipDate>
+    <Expr1>104</Expr1>
+    <ModelNumber>GRTWTCH9</ModelNumber>
+    <ModelName>Multi-Purpose Watch</ModelName>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+    <ProductID>404</ProductID>
+    <Quantity>2</Quantity>
+    <UnitCost>459.9900</UnitCost>
+    <OrderDate>2000-07-06T01:01:00+07:00</OrderDate>
+    <ShipDate>2000-07-08T01:01:00+07:00</ShipDate>
+    <Expr1>100</Expr1>
+    <ModelNumber>JWLTRANS6</ModelNumber>
+    <ModelName>Interpreter Earrings</ModelName>
+  </MyCustomer>
+</NewDataSet>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MyCustomer>
+    <CustomerID>1</CustomerID>
+    <FullName>James Bondwell</FullName>
+    <EmailAddress>jb@ibuyspy.com</EmailAddress>
+    <Password>IBS_007</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>2</CustomerID>
+    <FullName>Sarah Goodpenny</FullName>
+    <EmailAddress>sg@ibuyspy.com</EmailAddress>
+    <Password>IBS_001</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>3</CustomerID>
+    <FullName>Gordon Que</FullName>
+    <EmailAddress>gq@ibuyspy.com</EmailAddress>
+    <Password>IBS_000</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>19</CustomerID>
+    <FullName>Guest Account</FullName>
+    <EmailAddress>guest</EmailAddress>
+    <Password>guest</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>25</CustomerID>
+    <FullName>James</FullName>
+    <EmailAddress>huylolfairplay@gmail.com</EmailAddress>
+    <Password>12345</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>29</CustomerID>
+    <FullName>Tuan</FullName>
+    <EmailAddress>Tuan</EmailAddress>
+    <Password>123</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>30</CustomerID>
+    <FullName>Son</FullName>
+    <EmailAddress>Sondeptrai</EmailAddress>
+    <Password>123</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>39</CustomerID>
+    <FullName>huy1231231`</FullName>
+    <EmailAddress>11242341</EmailAddress>
+    <Password>1243123541</Password>
+  </MyCustomer>
+  <MyCustomer>
+    <CustomerID>40</CustomerID>
+    <FullName>@FullName</FullName>
+    <EmailAddress>@Email</EmailAddress>
+    <Password>@Password</Password>
+  </MyCustomer>
+</NewDataSet>
